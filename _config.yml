@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: disqus_lzomoIGy4U
+disqus: http://disqus.com/by/disqus_lzomoIGy4U
 future: true
 google_analytics:
 title: Python In The Grass
@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Python In The Grass
+      title: Python In The Grass, Deceptively Simple Python
 
 description: Deceptively Simple Python
 author:
