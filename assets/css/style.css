@@ -21,6 +21,11 @@ body{
 	text-transform: uppercase;
 }
 
+.sidebar-header img{
+width: 50%;
+border-radius: 0%;
+}
+
 .sidebar-header .title a{
 	text-decoration: none;
 	color: #fff;
