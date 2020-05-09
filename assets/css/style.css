@@ -26,6 +26,11 @@ body{
 	color: #fff;
 }
 
+.sidebar-header img{
+width: 50%;
+border-radius: 0%;
+
+}
 a.nav-link {
 	padding-bottom: 5px;
 	padding-top: 7px;
@@ -188,4 +193,3 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
-
