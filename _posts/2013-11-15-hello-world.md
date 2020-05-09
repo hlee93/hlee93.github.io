@@ -3,12 +3,7 @@ layout: post
 title: Python In The Grass: Deceptively simple Python!
 categories: [python, introspection, documentation]
 tags: [python, documentation, basics]
+description: Welcome to a thrilling review of python 3 documentation!
 fullview: true
 comments: true
 ---
-
-{% highlight yaml %}
-Hello World!
-
-Here we will be running through python 3 documentation, and creating examples.
-{% endhighlight %}
