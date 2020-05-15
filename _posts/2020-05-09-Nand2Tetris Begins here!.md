@@ -27,7 +27,7 @@ plt.plot(x,y)
     [<matplotlib.lines.Line2D at 0x1aa31d3ffd0>]
 
 
-![png](/blob/master/assets/_jupyter/output_0_1.png)
+![png](/assets/jupyter/output_0_1.png){:.center-image}
 
 
 

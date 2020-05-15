@@ -1,4 +1,4 @@
-I"E	\[mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\]
+I"]	\[mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\]
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
 <span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
@@ -11,7 +11,7 @@
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[&lt;matplotlib.lines.Line2D at 0x1aa31d3ffd0&gt;]
 </code></pre></div></div>
 
-<p><img src="assets\_jupyter\output_0_1.png" alt="" /></p>
+<p><img src="/assets/jupyter/output_0_1.png" alt="png" class="center-image" /></p>
 
 <p>Lorem ipsum dolor sit amet,  consectetur adipisicing elit,  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,  sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
